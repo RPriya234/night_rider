@@ -8,7 +8,7 @@ A Unity animation project where a girl rides a bike through various landscapesâ€
 
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshots or Video Files](#screenshots-or-video-files)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Assets](#assets)
@@ -43,15 +43,20 @@ This project showcases both technical and artistic skills, blending original art
 
 ---
 
-## Screenshots or Video files
+## Screenshots or Video Files
 
-Screenshots: <img width="725" alt="image" src="https://github.com/user-attachments/assets/d4f1cf9c-68a9-477c-a29e-a5022a95e447" />
-             <img width="793" alt="image" src="https://github.com/user-attachments/assets/a303e8ce-b9f9-4706-afa2-fd1dd86d0e18" />
-             <img width="843" alt="image" src="https://github.com/user-attachments/assets/65e7bfed-b390-4850-b9ae-d52b81502dde" />
-             <img width="787" alt="image" src="https://github.com/user-attachments/assets/7c09eb63-a785-41ff-afa2-7950dd77ecde" />
-             <img width="892" alt="image" src="https://github.com/user-attachments/assets/fdbff2d2-de2d-4671-9dee-ce98fb0e8b50" />
+**Screenshots: **
+
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/d4f1cf9c-68a9-477c-a29e-a5022a95e447" />
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/a303e8ce-b9f9-4706-afa2-fd1dd86d0e18" />
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/65e7bfed-b390-4850-b9ae-d52b81502dde" />
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/7c09eb63-a785-41ff-afa2-7950dd77ecde" />
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/fdbff2d2-de2d-4671-9dee-ce98fb0e8b50" />
+
   
-Video - https://github.com/RPriya234/night_rider/blob/840d6fea7e4f23f2996b9fd3c342168c2d58c94e/build/Night_Rider.mp4
+**Video :**
+
+https://github.com/RPriya234/night_rider/blob/840d6fea7e4f23f2996b9fd3c342168c2d58c94e/build/Night_Rider.mp4
 
 ---
 
