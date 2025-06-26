@@ -46,9 +46,6 @@ This project showcases both technical and artistic skills, blending original art
 ## Screenshots
 
 
-| Riding through the city | Witnessing the northern lights |
-|------------------------|-------------------------------|
-| ![city view](images/city.png) | ![northern lights](images/northern_lights.png) |
 
 ---
 
@@ -59,7 +56,7 @@ This project showcases both technical and artistic skills, blending original art
 - [Unity](https://unity.com/) (version X.X or higher)
 - [.NET SDK](https://dotnet.microsoft.com/) (for C# scripting)
 - [Visual Studio](https://visualstudio.microsoft.com/) (for code editing and debugging)
-- Any required Unity packages or assets
+  
 
 ### Installation
 
@@ -72,6 +69,9 @@ This project showcases both technical and artistic skills, blending original art
 
 3. **Install dependencies:**  
    Restore any required Unity assets (skyboxes, particle systems, etc.).
+  
+4. **Run the Scenes**
+   To run, open build path and start the .exe file
 
 ---
 
@@ -79,13 +79,14 @@ This project showcases both technical and artistic skills, blending original art
 
 ```
 Assets/
-├── Art/                 # Hand-drawn character and bike
-├── Backgrounds/         # Edited background images (town, city, bridge, forest)
+├── Animations/          # controller and .meta files of Animations(girl walk, movements, etc.)
+├── Sprites/             # Edited background images (town, city, bridge, forest)
 ├── Scenes/              # Unity scenes for each environment
 ├── Scripts/             # C# scripts for animation and effects
 ├── Prefabs/             # Prefab assets (bike, character, etc.)
-├── Skyboxes/            # Skybox assets for dynamic skies
-├── Particles/           # Particle effects for northern lights
+├── AllSkyFree/          # Skybox assets for dynamic skies
+├── Fantasy Skybox Free/ # Skybox assets for dynamic skies
+├── Height Fog/          # Particle effects for northern lights
 └── ...
 ```
 
@@ -113,8 +114,8 @@ Assets/scripts - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d27
 
 ## Usage
 
-- Run the main Unity scene and watch the animation unfold as the girl travels toward the northern lights.
-- *(Add controls or interaction instructions, if any.)*
+- Run the Unity scenes and watch the animation unfold as the girl travels toward the northern lights.
+- build - https://github.com/RPriya234/night_rider/tree/2bc21561cfe58eb9f7033d28ecdef8424c181168/build
 
 ---
 
@@ -122,12 +123,6 @@ Assets/scripts - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d27
 
 - **Unity Editor:** Used for scene setup, animation, and asset integration.
 - **Visual Studio:** Used for C# scripting, code editing, and debugging.
-
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
 ---
 
