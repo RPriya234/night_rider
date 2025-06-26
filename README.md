@@ -13,6 +13,7 @@ A Unity animation project where a girl rides a bike through various landscapesâ€
 - [Project Structure](#project-structure)
 - [Assets & Credits](#assets--credits)
 - [Usage](#usage)
+- [Development Tools](#development-tools)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -57,6 +58,7 @@ This project showcases both technical and artistic skills, blending original art
 
 - [Unity](https://unity.com/) (version X.X or higher)
 - [.NET SDK](https://dotnet.microsoft.com/) (for C# scripting)
+- [Visual Studio](https://visualstudio.microsoft.com/) (for code editing and debugging)
 - Any required Unity packages or assets
 
 ### Installation
