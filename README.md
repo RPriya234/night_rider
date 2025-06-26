@@ -44,7 +44,6 @@ This project showcases both technical and artistic skills, blending original art
 
 ## Screenshots
 
-*(Add screenshots or GIFs here to showcase your animation. Example:)*
 
 | Riding through the city | Witnessing the northern lights |
 |------------------------|-------------------------------|
@@ -91,11 +90,21 @@ Assets/
 
 ---
 
-## Assets & Credits
+## Assets 
+
+Assets/sprites - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/sprites
+Assets/Scenes  - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/Scenes
+Assets/Animations - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/Animations
+Assets/Animations - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/Animations
+Assets/prefabs - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/prefabs
+Assets/scripts - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d2717968ab51be0ac67f5970d8/Assets/scripts
+
+---
+
+## Credits
 
 - **Girl & Bike:** Original artwork by [RPriya234](https://github.com/RPriya234).
 - **Background Images:** Sourced online, edited/modified for the project.  
-  *(List specific sources if required, or add a line like "Contact for attribution details.")*
 - **Skybox Assets:** Unity Asset Store/free Unity assets.
 - **Particle Effects:** Custom Unity particle systems.
 
