@@ -17,7 +17,6 @@ A Unity animation project where a girl rides a bike through various landscapesâ€
 - [Credits](#credits)
 - [Usage](#usage)
 - [Development Tools](#development-tools)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
