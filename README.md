@@ -45,7 +45,7 @@ This project showcases both technical and artistic skills, blending original art
 
 ## Screenshots or Video Files
 
-**Screenshots: **
+**Screenshots:**
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/d4f1cf9c-68a9-477c-a29e-a5022a95e447" />
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/a303e8ce-b9f9-4706-afa2-fd1dd86d0e18" />
@@ -53,6 +53,7 @@ This project showcases both technical and artistic skills, blending original art
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/7c09eb63-a785-41ff-afa2-7950dd77ecde" />
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/fdbff2d2-de2d-4671-9dee-ce98fb0e8b50" />
 
+---
   
 **Video :**
 
