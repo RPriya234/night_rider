@@ -106,6 +106,13 @@ Assets/
 
 ---
 
+## Development Tools
+
+- **Unity Editor:** Used for scene setup, animation, and asset integration.
+- **Visual Studio:** Used for C# scripting, code editing, and debugging.
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
