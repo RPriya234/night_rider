@@ -1,3 +1,11 @@
+// File: ObjMovement.cs
+// Author: RPriya234
+// Year: 2023
+//
+// Night Rider Project
+// Copyright (c) 2023 RPriya234
+// Licensed under the MIT License. See LICENSE file in the project root for full license information.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
