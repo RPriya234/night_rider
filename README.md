@@ -144,7 +144,7 @@ Assets/scripts - https://github.com/RPriya234/night_rider/tree/4335a7e2cd88b3d27
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.  
-Copyright (c) 2023-2025 RPriya234
+Copyright (c) 2023-2025 Reddy-Priya-Pedhannavari
 
 ---
 
